@@ -6,3 +6,4 @@
 # 4. StringMethods
 # 5. Arithmetic Operators
 # 6. OperatorPrecedence
+# 7. MathFunctions
