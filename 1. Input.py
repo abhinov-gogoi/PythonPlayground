@@ -17,3 +17,5 @@ bool()
 
 # Check variable type
 print(type(birth_year))
+
+
