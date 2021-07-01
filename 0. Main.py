@@ -18,5 +18,10 @@
 # 16. NestedLoops
 # 17. Lists
 # 18. Program_LargestNoInList
+# 19. 2dLists
+# 20. ListMethods
+# 21. Program_ListsRemoveDuplicates
+# 22. Tuple
+# 23. Unpacking
 
 
