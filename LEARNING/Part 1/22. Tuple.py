@@ -1,4 +1,4 @@
-# Use parenthesis to define tuples
+# Use parenthesis to define tuples -> Tuples are like a read only list, whose values cant be changed
 
 numbers = (10, 20, 30)
 
